@@ -1,4 +1,3 @@
-<div align="center">
 
 # 📝 Умные Заметки (Smart Notes)
 
@@ -97,4 +96,3 @@ PyQt5 5.x
 <div align="center">
 Сделано с ❤️ на Python + PyQt5
 
-</div> ```
